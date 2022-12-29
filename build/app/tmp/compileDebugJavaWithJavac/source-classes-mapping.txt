@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/debtsettler_v4/BuildConfig.java
+ com.example.debtsettler_v4.BuildConfig

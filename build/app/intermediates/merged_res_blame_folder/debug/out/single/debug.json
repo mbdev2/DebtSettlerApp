@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "/Users/mbdev/Desktop/debtsettler_v4/build/app/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/mbdev/Desktop/debtsettler_v4/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/mbdev/Desktop/debtsettler_v4/build/app/intermediates/res/merged/debug/drawable-xxxhdpi_ic_debtsettler_icon.png.flat",
+        "source": "/Users/mbdev/Desktop/debtsettler_v4/build/app/generated/res/pngs/debug/drawable-xxxhdpi/ic_debtsettler_icon.png"
+    },
+    {
+        "merged": "/Users/mbdev/Desktop/debtsettler_v4/build/app/intermediates/res/merged/debug/mipmap-hdpi_launch_image.png.flat",
+        "source": "/Users/mbdev/Desktop/debtsettler_v4/android/app/src/main/res/mipmap-hdpi/launch_image.png"
+    },
+    {
+        "merged": "/Users/mbdev/Desktop/debtsettler_v4/build/app/intermediates/res/merged/debug/mipmap-ldpi_launch_image.png.flat",
+        "source": "/Users/mbdev/Desktop/debtsettler_v4/android/app/src/main/res/mipmap-ldpi/launch_image.png"
+    },
+    {
+        "merged": "/Users/mbdev/Desktop/debtsettler_v4/build/app/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/mbdev/Desktop/debtsettler_v4/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/mbdev/Desktop/debtsettler_v4/build/app/intermediates/res/merged/debug/mipmap-hdpi_splash_icon_rect.png.flat",
+        "source": "/Users/mbdev/Desktop/debtsettler_v4/android/app/src/main/res/mipmap-hdpi/splash_icon_rect.png"
+    },
+    {
+        "merged": "/Users/mbdev/Desktop/debtsettler_v4/build/app/intermediates/res/merged/debug/mipmap-xxxhdpi_launch_image.png.flat",
+        "source": "/Users/mbdev/Desktop/debtsettler_v4/android/app/src/main/res/mipmap-xxxhdpi/launch_image.png"
+    },
+    {
+        "merged": "/Users/mbdev/Desktop/debtsettler_v4/build/app/intermediates/res/merged/debug/drawable-mdpi_ic_debtsettler_icon.png.flat",
+        "source": "/Users/mbdev/Desktop/debtsettler_v4/build/app/generated/res/pngs/debug/drawable-mdpi/ic_debtsettler_icon.png"
+    },
+    {
+        "merged": "/Users/mbdev/Desktop/debtsettler_v4/build/app/intermediates/res/merged/debug/drawable-ldpi_ic_debtsettler_icon.png.flat",
+        "source": "/Users/mbdev/Desktop/debtsettler_v4/build/app/generated/res/pngs/debug/drawable-ldpi/ic_debtsettler_icon.png"
+    },
+    {
+        "merged": "/Users/mbdev/Desktop/debtsettler_v4/build/app/intermediates/res/merged/debug/mipmap-mdpi_splash_icon_rect.png.flat",
+        "source": "/Users/mbdev/Desktop/debtsettler_v4/android/app/src/main/res/mipmap-mdpi/splash_icon_rect.png"
+    },
+    {
+        "merged": "/Users/mbdev/Desktop/debtsettler_v4/build/app/intermediates/res/merged/debug/mipmap-mdpi_launch_image.png.flat",
+        "source": "/Users/mbdev/Desktop/debtsettler_v4/android/app/src/main/res/mipmap-mdpi/launch_image.png"
+    },
+    {
+        "merged": "/Users/mbdev/Desktop/debtsettler_v4/build/app/intermediates/res/merged/debug/drawable-hdpi_ic_debtsettler_icon.png.flat",
+        "source": "/Users/mbdev/Desktop/debtsettler_v4/build/app/generated/res/pngs/debug/drawable-hdpi/ic_debtsettler_icon.png"
+    },
+    {
+        "merged": "/Users/mbdev/Desktop/debtsettler_v4/build/app/intermediates/res/merged/debug/drawable-anydpi-v21_ic_debtsettler_icon.xml.flat",
+        "source": "/Users/mbdev/Desktop/debtsettler_v4/build/app/generated/res/pngs/debug/drawable-anydpi-v21/ic_debtsettler_icon.xml"
+    },
+    {
+        "merged": "/Users/mbdev/Desktop/debtsettler_v4/build/app/intermediates/res/merged/debug/drawable-xhdpi_ic_debtsettler_icon.png.flat",
+        "source": "/Users/mbdev/Desktop/debtsettler_v4/build/app/generated/res/pngs/debug/drawable-xhdpi/ic_debtsettler_icon.png"
+    },
+    {
+        "merged": "/Users/mbdev/Desktop/debtsettler_v4/build/app/intermediates/res/merged/debug/mipmap-xhdpi_splash_icon_circle.png.flat",
+        "source": "/Users/mbdev/Desktop/debtsettler_v4/android/app/src/main/res/mipmap-xhdpi/splash_icon_circle.png"
+    },
+    {
+        "merged": "/Users/mbdev/Desktop/debtsettler_v4/build/app/intermediates/res/merged/debug/mipmap-xxhdpi_splash_icon_circle.png.flat",
+        "source": "/Users/mbdev/Desktop/debtsettler_v4/android/app/src/main/res/mipmap-xxhdpi/splash_icon_circle.png"
+    },
+    {
+        "merged": "/Users/mbdev/Desktop/debtsettler_v4/build/app/intermediates/res/merged/debug/mipmap-xxhdpi_splash_icon_rect.png.flat",
+        "source": "/Users/mbdev/Desktop/debtsettler_v4/android/app/src/main/res/mipmap-xxhdpi/splash_icon_rect.png"
+    },
+    {
+        "merged": "/Users/mbdev/Desktop/debtsettler_v4/build/app/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/mbdev/Desktop/debtsettler_v4/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/mbdev/Desktop/debtsettler_v4/build/app/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/mbdev/Desktop/debtsettler_v4/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/mbdev/Desktop/debtsettler_v4/build/app/intermediates/res/merged/debug/mipmap-hdpi_splash_icon_circle.png.flat",
+        "source": "/Users/mbdev/Desktop/debtsettler_v4/android/app/src/main/res/mipmap-hdpi/splash_icon_circle.png"
+    },
+    {
+        "merged": "/Users/mbdev/Desktop/debtsettler_v4/build/app/intermediates/res/merged/debug/drawable-v21_launch_background.xml.flat",
+        "source": "/Users/mbdev/Desktop/debtsettler_v4/android/app/src/main/res/drawable-v21/launch_background.xml"
+    },
+    {
+        "merged": "/Users/mbdev/Desktop/debtsettler_v4/build/app/intermediates/res/merged/debug/mipmap-mdpi_splash_icon_circle.png.flat",
+        "source": "/Users/mbdev/Desktop/debtsettler_v4/android/app/src/main/res/mipmap-mdpi/splash_icon_circle.png"
+    },
+    {
+        "merged": "/Users/mbdev/Desktop/debtsettler_v4/build/app/intermediates/res/merged/debug/mipmap-xxxhdpi_splash_icon_circle.png.flat",
+        "source": "/Users/mbdev/Desktop/debtsettler_v4/android/app/src/main/res/mipmap-xxxhdpi/splash_icon_circle.png"
+    },
+    {
+        "merged": "/Users/mbdev/Desktop/debtsettler_v4/build/app/intermediates/res/merged/debug/mipmap-xxhdpi_launch_image.png.flat",
+        "source": "/Users/mbdev/Desktop/debtsettler_v4/android/app/src/main/res/mipmap-xxhdpi/launch_image.png"
+    },
+    {
+        "merged": "/Users/mbdev/Desktop/debtsettler_v4/build/app/intermediates/res/merged/debug/drawable-xxhdpi_ic_debtsettler_icon.png.flat",
+        "source": "/Users/mbdev/Desktop/debtsettler_v4/build/app/generated/res/pngs/debug/drawable-xxhdpi/ic_debtsettler_icon.png"
+    },
+    {
+        "merged": "/Users/mbdev/Desktop/debtsettler_v4/build/app/intermediates/res/merged/debug/mipmap-xhdpi_launch_image.png.flat",
+        "source": "/Users/mbdev/Desktop/debtsettler_v4/android/app/src/main/res/mipmap-xhdpi/launch_image.png"
+    },
+    {
+        "merged": "/Users/mbdev/Desktop/debtsettler_v4/build/app/intermediates/res/merged/debug/mipmap-xhdpi_splash_icon_rect.png.flat",
+        "source": "/Users/mbdev/Desktop/debtsettler_v4/android/app/src/main/res/mipmap-xhdpi/splash_icon_rect.png"
+    },
+    {
+        "merged": "/Users/mbdev/Desktop/debtsettler_v4/build/app/intermediates/res/merged/debug/drawable_launch_background.xml.flat",
+        "source": "/Users/mbdev/Desktop/debtsettler_v4/android/app/src/main/res/drawable/launch_background.xml"
+    },
+    {
+        "merged": "/Users/mbdev/Desktop/debtsettler_v4/build/app/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/mbdev/Desktop/debtsettler_v4/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/mbdev/Desktop/debtsettler_v4/build/app/intermediates/res/merged/debug/mipmap-xxxhdpi_splash_icon_rect.png.flat",
+        "source": "/Users/mbdev/Desktop/debtsettler_v4/android/app/src/main/res/mipmap-xxxhdpi/splash_icon_rect.png"
+    }
+]

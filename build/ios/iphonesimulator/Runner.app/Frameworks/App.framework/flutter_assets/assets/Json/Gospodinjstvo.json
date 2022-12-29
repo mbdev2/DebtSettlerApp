@@ -1,0 +1,28 @@
+{
+  "_id": "62604eaf5e8ce363575f3377",
+  "uporabnikGospodinjstvo": [
+    {
+      "idUporabnika": "626044e0fa918c3c44fc30f2",
+      "imeUporabnika": "Mark",
+      "stanjeDenarja": 20.0,
+      "porabljenDenar": 50.00,
+      "zamrznjenStatus": false,
+      "_id": "62604eaf5e8ce363575f3378"
+    },
+    {
+      "idUporabnika": "626044e0fa918c3c44fc30f3",
+      "imeUporabnika": "Blaz",
+      "stanjeDenarja": -20.00,
+      "porabljenDenar": 10.00,
+      "zamrznjenStatus": false,
+      "_id": "62604eaf5e8ce363575f3379"
+    }
+  ],
+  "nakupiGospodinjstvo": [],
+  "nakupovalniSeznamGospodinjstvo": [],
+  "imeGospodinjstva": "Blazveka",
+  "nakljucnaVrednost": "0dd1406d0658f96395577b3c9bfa6ba2",
+  "zgoscenaVrednost": "7c3140d5f60140f54ea702fc9c948f5cf4018d4fac2d1358bb02e52e54350d80ef6b7af213639219c493c4dfb9297e3e2f749ea6b2b444380fa21928e0521024",
+  "adminGospodinjstva": "626044e0fa918c3c44fc30f2",
+  "__v": 0
+}
